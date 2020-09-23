@@ -1,0 +1,9 @@
+Green Man Gaming Scraper
+
+Creating a scraper for low prices on greenmangaming.com
+
+TODO:
+
+Find a way to gather price of an element (BeautifulSoup?)
+Iterate through multiple prices
+Store prices in a text document
